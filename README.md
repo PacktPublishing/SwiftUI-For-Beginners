@@ -23,8 +23,9 @@ Ahmad Sahar</p>
 <img src="https://content.packt.com/B38840/cover_image_small.jpg" alt="SwiftUI for Beginners, First Edition" height="256px" align="right">
 </a>
 
-Most beginners want to build a real app, not work through isolated exercises. <i>SwiftUI for Beginners</i> gives you exactly that, guiding you through the complete development of CATLog, a fully functional iOS app, using Swift 6, SwiftUI, and Swift Playground.</br>
-Starting with the Swift Playground environment and Swift fundamentals, you will design adaptive multi-screen interfaces, build navigation flows, and manage application data. As the app grows, you will add SwiftData for persistent storage, Core Location and MapKit for location-aware features, and Photo Library integration for rich media. You will also build reusable custom views and implement search to improve usability throughout.</br>
+Most beginners want to build a real app, not work through isolated exercises. <i>SwiftUI for Beginners</i> gets you building from the start, showing you how to create a complete iOS app on iPad using Swift Playground, Swift 6, and SwiftUI.</br>
+Starting with the Swift Playground environment and Swift fundamentals, you will design adaptive multiscreen interfaces, build navigation flows, and manage application data. As the app grows, you will add SwiftData for persistent storage, Core Location and MapKit for location-aware features, and Photo Library integration for rich media. You will also build reusable custom views and implement search to 
+improve usability throughout.</br>
 By the end of this book, you will have built, tested, and published a complete iOS app to the App Store using SwiftUI, SwiftData, MapKit, and TestFlight.</br>
 </details>
 
@@ -32,13 +33,13 @@ By the end of this book, you will have built, tested, and published a complete i
   <summary><h2>Key learnings</summary>
 <ul>
 
-<li>Design adaptive, multi-screen interfaces using SwiftUI components</li>
+<li>Build a complete iOS app on iPad using Swift Playground and SwiftUI</li>
 
-<li>Navigate the Swift Playground environment and configure an iOS project</li>
+<li>Design adaptive, multi-screen interfaces using SwiftUI components</li>
 
 <li>Create navigation flows and manage data across multiple screens</li>
 
-<li>Store data persistently with SwiftData</li>
+<li>Store persistent app data with SwiftDat</li>
 
 <li>Integrate Core Location and MapKit for location-aware features</li>
 
